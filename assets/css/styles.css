@@ -1,0 +1,20 @@
+*{
+    width: 90%;
+    margin: auto;
+    padding: 0;
+}
+
+.titulo {
+    color: rgb(179, 56, 39);
+}
+.titulo3 {
+    color:rgb(60, 23, 169);
+}
+.background {
+   /*background:rgb(203, 200, 213);*/
+   background-image: url(https://www.visittheusa.mx/sites/default/files/styles/hero_l/public/images/hero_media_image/2021-12/f4c7ad6f-2cba-462d-8dcd-e62632981523.jpeg?h=dce9b8a5&itok=inQvZJu7);
+}
+
+.card {
+    width: 18rem;
+}
